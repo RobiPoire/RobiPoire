@@ -6,7 +6,7 @@ Un jeux incroyable avec une intéligence artificiel incroyable
 """
 
 __title__ = "La bataille navoul coloré"
-__author__ = "Elouan & Robin"
+__author__ = "Zazizou & RobiPoire"
 
 
 #! Importation des modules
