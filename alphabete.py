@@ -21,7 +21,7 @@ ttt
 """
 
 __title__ = "Alphabete"
-__author__ = "Robin"
+__author__ = "RobiPoire"
 
 
 def alphabet_creation(number_letter_alphabet, maximum_word_length, number_words_dictionary, alphabet):
