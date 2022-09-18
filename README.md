@@ -30,6 +30,5 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobiPoire&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=robipoire&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RobiPoire&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=robipoire&theme=github_dark)  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RobiPoire&theme=github_dark)
