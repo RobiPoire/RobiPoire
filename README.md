@@ -2,7 +2,7 @@
 
 🎂 I was born on December 9, 2004 (17 years old)<br>
 🎒 I am currently in the last year of high school in France<br>
-💻 I program only in python and I do HTML5 sometimes<br>
+💻 I program only in python and I do HTML sometimes<br>
 💭 Later, I would like to know more computer languages ​​and work as a developer<br>
 🍐 And... I like pears!<br>
 
