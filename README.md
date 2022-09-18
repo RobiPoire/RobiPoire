@@ -6,9 +6,6 @@
 💭 Later, I would like to know more computer languages ​​and work as a developer<br>
 🍐 And... I like pears!<br>
 
-
-<br>
-
 ## 🌐 Socials:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/robipoire)
@@ -38,4 +35,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=RobiPoire&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RobiPoire&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
