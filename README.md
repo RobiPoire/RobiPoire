@@ -4,7 +4,7 @@
 🎒 I am currently in the last year of high school in France<br>
 💻 I program only in python and I do HTML sometimes<br>
 💭 Later, I would like to know more computer languages ​​and work as a developer<br>
-⌨️ I am currently learning C
+⌨️ I am currently learning C<br>
 🍐 And... I like pears!<br>
 
 ## 🌐 Socials:
