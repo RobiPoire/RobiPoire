@@ -4,6 +4,7 @@
 🎒 I am currently in the last year of high school in France<br>
 💻 I program only in python and I do HTML sometimes<br>
 💭 Later, I would like to know more computer languages ​​and work as a developer<br>
+⌨️ I am currently learning C
 🍐 And... I like pears!<br>
 
 ## 🌐 Socials:
@@ -16,19 +17,19 @@
 
 # 💻 Tools mastered:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
-![VsCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)
-![windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
-![ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com)
+[![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 
 # 📊 GitHub Stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobiPoire&theme=github_dark)
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=robipoire&theme=github_dark)  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RobiPoire&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=robipoire&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RobiPoire&theme=github_dark)
