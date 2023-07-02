@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🎂 I was born on December 9, 2004 (18 years old)<br>
-🎒 I am currently in the last year of high school in France<br>
+🎒 I am currently in the 1st year of DUT informatics at the IUT in Valence<br>
 💻 I program only in python and I do HTML or C sometimes<br>
 💭 Later, I would like to know more computer languages ​​and work as a developer<br>
 🍐 And... I like pears!<br>
