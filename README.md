@@ -1,35 +1,37 @@
-# 💫 About Me:
+# About me
 
-🎂 I was born on December 9, 2004 (18 years old)<br>
-🎒 I am currently in the 1st year of DUT informatics at the IUT in Valence<br>
-💻 I program only in python and I do HTML or C sometimes<br>
-💭 Later, I would like to know more computer languages ​​and work as a developer<br>
-🍐 And... I like pears!<br>
+- 🎒 I am a first year student in the BUT Informatique at the IUT of Valence.
+- 🎂 I was born on December 9, 2004 (19 years old).
+- 💻 I love computer science and would like to make it my job.
+- 📈 Later, I would like to be a computer project manager.
 
-## 🌐 Socials:
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/robipoire)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/robipoire)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white)](https://discord.com/users/411492505024987148)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/u/robipoire)
-[![Gist](https://img.shields.io/badge/Gist-%23121011.svg?logo=GitHub&logoColor=white)](https://gist.github.com/robipoire)
+# My skills
 
-# 💻 Tools mastered:
+### Advanced
+*If I am asked something about it, I can almost always do it.* <br> 
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org/)
+[![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=FFFFFF)](https://www.microsoft.com/fr-fr/microsoft-365/excel)
+[![Vscode](https://img.shields.io/badge/-Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF)](https://code.visualstudio.com/)
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://www.microsoft.com/fr-fr/windows)
+[![Debian](https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=FFFFFF)](https://www.debian.org/)
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com)
-[![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)](https://www.raspberrypi.org)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
-[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://debian.org)
+### Intermediate
+*If I am asked something about it (not too complicated), I can probably do it.* <br>
+[![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=FFFFFF)](https://www.jetbrains.com/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)](https://git-scm.com/)
+[![Access](https://img.shields.io/badge/-Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=FFFFFF)](https://www.microsoft.com/fr-fr/microsoft-365/access)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)](https://www.iso.org/standard/63555.html)
+[![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)](https://git-scm.com/)
 
-# 📊 GitHub Stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobiPoire&theme=github_dark)
+### Beginner
+*I can already do a few simple things but that's it.* <br>
+[![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=FFFFFF)](https://www.iso.org/standard/74528.html)
+[![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://www.w3.org/standards/webdesign/htmlcss)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://www.javascript.com/)
+[![Assembler](https://img.shields.io/badge/-Assembler-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=FFFFFF)](https://www.iso.org/standard/74528.html)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=FFFFFF)](https://kotlinlang.org/)
+[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)](https://www.java.com/)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=robipoire&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RobiPoire&theme=github_dark)
