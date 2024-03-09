@@ -20,10 +20,8 @@
 *If I am asked something about it (not too complicated), I can probably do it.* <br>
 [![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=FFFFFF)](https://www.jetbrains.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)](https://git-scm.com/)
-[![Access](https://img.shields.io/badge/-Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=FFFFFF)](https://www.microsoft.com/fr-fr/microsoft-365/access)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)](https://www.iso.org/standard/63555.html)
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)](https://git-scm.com/)
 
 
 ### Beginner
@@ -34,4 +32,6 @@
 [![Assembler](https://img.shields.io/badge/-Assembler-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=FFFFFF)](https://www.iso.org/standard/74528.html)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=FFFFFF)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)](https://www.java.com/)
+[![Access](https://img.shields.io/badge/-Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=FFFFFF)](https://www.microsoft.com/fr-fr/microsoft-365/access)
+
 
